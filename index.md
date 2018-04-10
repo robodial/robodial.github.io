@@ -29,30 +29,23 @@ Researchers may choose to submit:
  - **Long papers and short papers** will present original research and go through the regular SIGdial peer review process by the general SIGdial program committee. These papers will appear in the main SIGdial proceedings and are presented with the main track. Long papers must be no longer than eight pages, including title, text, figures and tables, along with two additional pages for example discourses or dialogues and algorithms. Short papers should be no longer than four pages including title, text, figures and tables, along with one additional page for example discourses or dialogues and algorithms. An unlimited number of pages are allowed for references.
  - **Late-breaking and work-in-progress papers** will showcase ongoing work and focused, relevant contributions. Submissions need not present original work and are limited to four pages including references. These will be reviewed by the special session organizers and posted on the special session website. These papers will be presented as lightning talks or posters during the session. Authors will retain the copyright to their work so that they may submit to other venues as their work matures.
 		
-#### Long and short paper deadline: March 11 (_Final pdf due March 18_)
+### Long and short paper deadline: March 11
+
+_Final pdf due March 18_
 
 To submit a long or short paper, please go to the <a href="http://www.sigdial.org/workshops/conference19/">SIGDIAL 2018 main page</a> for conference submissions (deadline March 11). When submitting, indicate "Physically Situated Dialogue" as the candidate special session. All long and short submissions must follow the SIGDIAL 2018 format.
 
-#### Late-breaking and work-in-progress paper deadline: April 28
+### Late-breaking and work-in-progress paper deadline: April 28
 
 To submit a late-breaking or work-in-progress paper, please email a 2-4 page PDF (including references) formatted using the SIGDIAL 2018 format guidelines, to: <a href="mailto:robodial@googlegroups.com">robodial@googlegroups.com</a> by April 28. You will receive a confirmation of your submission and notification before the Early Bird Registration deadline.
   
 ## Important Dates
 
-    <table>
-        <tbody><tr>
-            <td>March 11, 2018</td>
-            <td>Long and short paper initial submission deadline<br>
-            (<a href="http://www.sigdial.org/workshops/conference19/">SIGDIAL submission system</a>)</td>
-        </tr>
-		<tr>
-			<td>March 18, 2018</td>
-			<td>Final pdf due for long and short paper submission</td>
-        <tr>
-            <td>April 20, 2018</td>
-            <td>SIGDIAL notification of acceptance</td>
-        </tr>
-        <tr>
+| March 11, 2018 | Long and short paper initial submission deadline<br>(<a href="http://www.sigdial.org/workshops/conference19/">SIGDIAL submission system</a>) |
+| March 18, 2018 | Final pdf due for long and short paper submission |
+| April 20, 2018 | SIGDIAL notification of acceptance |
+
+<tr>
             <td>April 28, 2018</td>
             <td>Late-breaking and work-in-progress submission deadline<br>
             (Email directly to: <a href="mailto:robodial@googlegroups.com">robodial@googlegroups.com</a>)</td>
@@ -64,7 +57,6 @@ To submit a late-breaking or work-in-progress paper, please email a 2-4 page PDF
             <td>July 12-14, 2018</td>
             <td>SIGDIAL conference</td>
         </tr>
-    </tbody></table>
 
 ## Organizers
 
