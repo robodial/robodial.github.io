@@ -1,7 +1,6 @@
-# Special Session on Physically Situated Dialogue (RoboDIAL)
+#### Part of [SIGDIAL 2018](http://www.sigdial.org/workshops/conference19/)
 
-**Part of [SIGDIAL 2018](http://www.sigdial.org/workshops/conference19/)**
-**July 12-14, 2018**
+#### July 12-14, 2018
 
 RMIT University
 
@@ -9,18 +8,18 @@ Melbourne, Australia
 	
 **Papers due March 11 for SIGDIAL (_Final pdf due March 18_) or April 28 for late-breaking and work-in-progress papers**
 
-<h3>Overview</h3>
+## Overview
 
-<p>Recent technologies have brought conversational robots out of the lab and into the homes and workplaces of real users. Dialogue is now actively taking place with robots and other smart devices to understand, operate, navigate, and manipulate physical space. <i>Physically situated dialogue</i> distinguishes itself from other forms of dialogue in that it (1) takes place in a physical space, (2) refers to the shared surroundings of dialogue partners, and (3) involves a physical agent that can make actions in the world. There is a growing need for showcasing bi-directional dialogue work that draws on language grounding, models of vision and language, as well as dialogue that allows physically situated agents to ask for clarification and provide updates on their internal states.</p>
+Recent technologies have brought conversational robots out of the lab and into the homes and workplaces of real users. Dialogue is now actively taking place with robots and other smart devices to understand, operate, navigate, and manipulate physical space. _Physically situated dialogue_ distinguishes itself from other forms of dialogue in that it (1) takes place in a physical space, (2) refers to the shared surroundings of dialogue partners, and (3) involves a physical agent that can make actions in the world. There is a growing need for showcasing bi-directional dialogue work that draws on language grounding, models of vision and language, as well as dialogue that allows physically situated agents to ask for clarification and provide updates on their internal states.
 
-<h3>Call for Papers</h3>
+### Call for Papers
 
-<p>Our objectives in this special session are to showcase recent and ongoing work on physically situated dialogue, and to identify paths forward in this space from research across communities including dialogue, robotics, computer vision, NLP, and AI. The special session will feature presentations, a poster session, and a panel discussion comprising a mix of experts in the topic area. We welcome submissions on any topic related to physically situated dialogue, including but not limited to:</p>
-    <ul>
-		<li>Interaction studies with smart-home devices</li>
-		<li>Learning from demonstration through natural language dialogue</li>
-		<li>Explainable AI in physical spaces</li>
-		<li>Representations of physical surroundings / world modeling to support grounded communication</li>
+Our objectives in this special session are to showcase recent and ongoing work on physically situated dialogue, and to identify paths forward in this space from research across communities including dialogue, robotics, computer vision, NLP, and AI. The special session will feature presentations, a poster session, and a panel discussion comprising a mix of experts in the topic area. We welcome submissions on any topic related to physically situated dialogue, including but not limited to:
+
+ - Interaction studies with smart-home devices
+ - Learning from demonstration through natural language dialogue
+ - Explainable AI in physical spaces
+ - Representations of physical surroundings / world modeling to support grounded communication
 		<li>Embodied visual question answering and/or generation</li>
 		<li>Empirical studies of human-robot dialogue (Wizard-of-Oz based, simulated, or semi-autonomous)</li>
 		<li>Computational models of dialogue management and/or turn-taking with physical agents</li>
@@ -30,7 +29,6 @@ Melbourne, Australia
 		<li>Physical embodiment, voice, or personification of robots and their effects on human-robot dialogue</li>
 		<li>Communicating feedback from robots using affordances in addition to speech</li>
 		<li>Spoken language generation for physically situated dialogue</li>
-    </ul>
 		
 	<p>Researchers may choose to submit:</p>
 	<ul>
