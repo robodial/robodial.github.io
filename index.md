@@ -1,12 +1,6 @@
-#### Part of [SIGDIAL 2018](http://www.sigdial.org/workshops/conference19/)
-
-#### July 12-14, 2018
-
-RMIT University
-
-Melbourne, Australia
+# Special Session on Physically Situated Dialogue
 	
-**Papers due March 11 for SIGDIAL (_Final pdf due March 18_) or April 28 for late-breaking and work-in-progress papers**
+Papers due March 11 for SIGDIAL (_Final pdf due March 18_) or April 28 for late-breaking and work-in-progress papers
 
 ## Overview
 
