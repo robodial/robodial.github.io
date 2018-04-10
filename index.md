@@ -4,25 +4,18 @@
 **July 12-14, 2018**
 
 RMIT University
+
 Melbourne, Australia
 	
-	<h4>Papers due March 11 for SIGDIAL (<i>Final pdf due March 18</i>) or April 28 for late-breaking and work-in-progress papers</h4>
+**Papers due March 11 for SIGDIAL (_Final pdf due March 18_) or April 28 for late-breaking and work-in-progress papers**
 
-</div>
+<h3>Overview</h3>
 
-<div class="section"><a name="overview"></a>
+<p>Recent technologies have brought conversational robots out of the lab and into the homes and workplaces of real users. Dialogue is now actively taking place with robots and other smart devices to understand, operate, navigate, and manipulate physical space. <i>Physically situated dialogue</i> distinguishes itself from other forms of dialogue in that it (1) takes place in a physical space, (2) refers to the shared surroundings of dialogue partners, and (3) involves a physical agent that can make actions in the world. There is a growing need for showcasing bi-directional dialogue work that draws on language grounding, models of vision and language, as well as dialogue that allows physically situated agents to ask for clarification and provide updates on their internal states.</p>
 
-    <h3>Overview</h3>
+<h3>Call for Papers</h3>
 
-    <p>Recent technologies have brought conversational robots out of the lab and into the homes and workplaces of real users. Dialogue is now actively taking place with robots and other smart devices to understand, operate, navigate, and manipulate physical space. <i>Physically situated dialogue</i> distinguishes itself from other forms of dialogue in that it (1) takes place in a physical space, (2) refers to the shared surroundings of dialogue partners, and (3) involves a physical agent that can make actions in the world. There is a growing need for showcasing bi-directional dialogue work that draws on language grounding, models of vision and language, as well as dialogue that allows physically situated agents to ask for clarification and provide updates on their internal states.</p>
-	
-</div>
-
-<div class="section"><a name="call"></a>
-
-    <h3>Call for Papers</h3>
-
-    <p>Our objectives in this special session are to showcase recent and ongoing work on physically situated dialogue, and to identify paths forward in this space from research across communities including dialogue, robotics, computer vision, NLP, and AI. The special session will feature presentations, a poster session, and a panel discussion comprising a mix of experts in the topic area. We welcome submissions on any topic related to physically situated dialogue, including but not limited to:</p>
+<p>Our objectives in this special session are to showcase recent and ongoing work on physically situated dialogue, and to identify paths forward in this space from research across communities including dialogue, robotics, computer vision, NLP, and AI. The special session will feature presentations, a poster session, and a panel discussion comprising a mix of experts in the topic area. We welcome submissions on any topic related to physically situated dialogue, including but not limited to:</p>
     <ul>
 		<li>Interaction studies with smart-home devices</li>
 		<li>Learning from demonstration through natural language dialogue</li>
@@ -38,10 +31,6 @@ Melbourne, Australia
 		<li>Communicating feedback from robots using affordances in addition to speech</li>
 		<li>Spoken language generation for physically situated dialogue</li>
     </ul>
-    <p></p>
-</div>
-	
-<div class="section"><a name="submissions"></a>
 		
 	<p>Researchers may choose to submit:</p>
 	<ul>
@@ -82,7 +71,6 @@ Melbourne, Australia
             <td>SIGDIAL conference</td>
         </tr>
     </tbody></table>
-</div>
 
     <h3>Organizers</h3>
 
