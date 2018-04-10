@@ -14,24 +14,24 @@ Our objectives in this special session are to showcase recent and ongoing work o
  - Learning from demonstration through natural language dialogue
  - Explainable AI in physical spaces
  - Representations of physical surroundings / world modeling to support grounded communication
-		<li>Embodied visual question answering and/or generation</li>
-		<li>Empirical studies of human-robot dialogue (Wizard-of-Oz based, simulated, or semi-autonomous)</li>
-		<li>Computational models of dialogue management and/or turn-taking with physical agents</li>
-		<li>Methods of building or leveraging common ground with physical agents in real-world or simulated environments</li>
-		<li>Corpora of physically situated dialogue (Wizard-of-Oz based or otherwise)</li>
-		<li>Multimodal information processing to support dialogue (including speech, gaze, gesture)</li>
-		<li>Physical embodiment, voice, or personification of robots and their effects on human-robot dialogue</li>
-		<li>Communicating feedback from robots using affordances in addition to speech</li>
-		<li>Spoken language generation for physically situated dialogue</li>
+ - Embodied visual question answering and/or generation
+ - Empirical studies of human-robot dialogue (Wizard-of-Oz based, simulated, or semi-autonomous)
+ - Computational models of dialogue management and/or turn-taking with physical agents
+ - Methods of building or leveraging common ground with physical agents in real-world or simulated environments
+ - Corpora of physically situated dialogue (Wizard-of-Oz based or otherwise)
+ - Multimodal information processing to support dialogue (including speech, gaze, gesture)
+ - Physical embodiment, voice, or personification of robots and their effects on human-robot dialogue
+ - Communicating feedback from robots using affordances in addition to speech
+ - Spoken language generation for physically situated dialogue
+	
+Researchers may choose to submit:
+
+ - **Long papers and short papers** will present original research and go through the regular SIGdial peer review process by the general SIGdial program committee. These papers will appear in the main SIGdial proceedings and are presented with the main track. Long papers must be no longer than eight pages, including title, text, figures and tables, along with two additional pages for example discourses or dialogues and algorithms. Short papers should be no longer than four pages including title, text, figures and tables, along with one additional page for example discourses or dialogues and algorithms. An unlimited number of pages are allowed for references.
+ - **Late-breaking and work-in-progress papers** will showcase ongoing work and focused, relevant contributions. Submissions need not present original work and are limited to four pages including references. These will be reviewed by the special session organizers and posted on the special session website. These papers will be presented as lightning talks or posters during the session. Authors will retain the copyright to their work so that they may submit to other venues as their work matures.
 		
-	<p>Researchers may choose to submit:</p>
-	<ul>
-	<li><b>Long papers and short papers</b> will present original research and go through the regular SIGdial peer review process by the general SIGdial program committee. These papers will appear in the main SIGdial proceedings and are presented with the main track. Long papers must be no longer than eight pages, including title, text, figures and tables, along with two additional pages for example discourses or dialogues and algorithms. Short papers should be no longer than four pages including title, text, figures and tables, along with one additional page for example discourses or dialogues and algorithms. An unlimited number of pages are allowed for references.</li>
-	<li><b>Late-breaking and work-in-progress papers</b> will showcase ongoing work and focused, relevant contributions. Submissions need not present original work and are limited to four pages including references. These will be reviewed by the special session organizers and posted on the special session website. These papers will be presented as lightning talks or posters during the session. Authors will retain the copyright to their work so that they may submit to other venues as their work matures.</li>
-	</ul>
-		
-	<h4>Long and short paper deadline: March 11 (<i>Final pdf due March 18</i>)</h4>
-	<p>To submit a long or short paper, please go to the <a href="http://www.sigdial.org/workshops/conference19/">SIGDIAL 2018 main page</a> for conference submissions (deadline March 11). When submitting, indicate "Physically Situated Dialogue" as the candidate special session. All long and short submissions must follow the SIGDIAL 2018 format.</p>
+#### Long and short paper deadline: March 11 (_Final pdf due March 18_)
+
+To submit a long or short paper, please go to the <a href="http://www.sigdial.org/workshops/conference19/">SIGDIAL 2018 main page</a> for conference submissions (deadline March 11). When submitting, indicate "Physically Situated Dialogue" as the candidate special session. All long and short submissions must follow the SIGDIAL 2018 format.
 
 	<h4>Late-breaking and work-in-progress paper deadline: April 28</h4>
 	<p>To submit a late-breaking or work-in-progress paper, please email a 2-4 page PDF (including references) formatted using the SIGDIAL 2018 format guidelines, to: <a href="mailto:robodial@googlegroups.com">robodial@googlegroups.com</a> by April 28. You will receive a confirmation of your submission and notification before the Early Bird Registration deadline.</p>
@@ -64,10 +64,10 @@ Our objectives in this special session are to showcase recent and ongoing work o
         </tr>
     </tbody></table>
 
-    <h3>Organizers</h3>
+### Organizers
 
-    <p><a href="http://www.seanandrist.com">Sean Andrist</a>, Microsoft Research<br>
-    <a href="https://users.soe.ucsc.edu/~slukin">Stephanie Lukin</a>, Army Research Lab<br>
-    <a href="http://www.cs.cmu.edu/~mrmarge">Matthew Marge</a>, Army Research Lab<br>
-    <a href="https://jessethomason.com">Jesse Thomason</a>, University of Texas at Austin<br>
-    <a href="http://www.cs.cmu.edu/~zhouyu">Zhou Yu</a>, University of California, Davis</p>
+<a href="http://www.seanandrist.com">Sean Andrist</a>, Microsoft Research<br>
+<a href="https://users.soe.ucsc.edu/~slukin">Stephanie Lukin</a>, Army Research Lab<br>
+<a href="http://www.cs.cmu.edu/~mrmarge">Matthew Marge</a>, Army Research Lab<br>
+<a href="https://jessethomason.com">Jesse Thomason</a>, University of Texas at Austin<br>
+<a href="http://www.cs.cmu.edu/~zhouyu">Zhou Yu</a>, University of California, Davis</p>
