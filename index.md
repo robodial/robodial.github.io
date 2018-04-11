@@ -51,7 +51,11 @@ To submit a late-breaking or work-in-progress paper, please email a 2-4 page PDF
 ## Organizers
 
 <a href="http://www.seanandrist.com">Sean Andrist</a>, Microsoft Research
+
 <a href="https://users.soe.ucsc.edu/~slukin">Stephanie Lukin</a>, Army Research Lab
+
 <a href="http://www.cs.cmu.edu/~mrmarge">Matthew Marge</a>, Army Research Lab
+
 <a href="https://jessethomason.com">Jesse Thomason</a>, University of Texas at Austin
+
 <a href="http://www.cs.cmu.edu/~zhouyu">Zhou Yu</a>, University of California, Davis
