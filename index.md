@@ -37,7 +37,7 @@ To submit a long or short paper, please go to the <a href="http://www.sigdial.or
 
 ### Late-breaking and work-in-progress paper deadline: April 28
 
-To submit a late-breaking or work-in-progress paper, please email a 2-4 page PDF (including references) formatted using the SIGDIAL 2018 format guidelines, to: <a href="mailto:robodial@googlegroups.com">robodial@googlegroups.com</a> by April 28. You will receive a confirmation of your submission and notification before the Early Bird Registration deadline.
+To submit a late-breaking or work-in-progress paper, please email a 2-4 page PDF (including references) formatted using the SIGDIAL 2018 format guidelines, to: <a href="mailto:robodial@googlegroups.com">robodial@googlegroups.com</a> by April 28. Submissions should be non-anonymized. You will receive a confirmation of your submission and notification before the Early Bird Registration deadline.
   
 ## Important Dates
 
