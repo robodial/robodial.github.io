@@ -35,9 +35,9 @@ _Final pdf due March 18_
 
 To submit a long or short paper, please go to the <a href="http://www.sigdial.org/workshops/conference19/">SIGDIAL 2018 main page</a> for conference submissions (deadline March 11). When submitting, indicate "Physically Situated Dialogue" as the candidate special session. All long and short submissions must follow the SIGDIAL 2018 format.
 
-### Late-breaking and work-in-progress paper deadline: April 28
+### Late-breaking and work-in-progress paper deadline: June 10
 
-To submit a late-breaking or work-in-progress paper, please email a 2-4 page PDF (including references) formatted using the SIGDIAL 2018 format guidelines, to: <a href="mailto:robodial@googlegroups.com">robodial@googlegroups.com</a> by April 28. Submissions should be non-anonymized. You will receive a confirmation of your submission and notification before the Early Bird Registration deadline.
+To submit a late-breaking or work-in-progress paper, please email a 2-4 page PDF (including references) formatted using the SIGDIAL 2018 format guidelines, to: <a href="mailto:robodial@googlegroups.com">robodial@googlegroups.com</a> by June 10. Submissions should be non-anonymized. You will receive a confirmation of your submission and notification before the Early Bird Registration deadline.
   
 ## Important Dates
 
