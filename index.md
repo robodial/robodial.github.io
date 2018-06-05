@@ -44,8 +44,8 @@ To submit a late-breaking or work-in-progress paper, please email a 2-4 page PDF
 | March 11, 2018 | Long and short paper initial submission deadline<br>(<a href="http://www.sigdial.org/workshops/conference19/">SIGDIAL submission system</a>) |
 | March 18, 2018 | Final pdf due for long and short paper submission |
 | April 20, 2018 | SIGDIAL notification of acceptance |
-| April 28, 2018 | Late-breaking and work-in-progress submission deadline<br>(Email directly to: <a href="mailto:robodial@googlegroups.com">robodial@googlegroups.com</a>) |
 | May 13, 2018   | Camera-ready submission deadline |
+| June 10, 2018 | Late-breaking and work-in-progress submission deadline<br>(Email directly to: <a href="mailto:robodial@googlegroups.com">robodial@googlegroups.com</a>) |
 | July 12-14, 2018 | SIGDIAL conference |
 
 ## Organizers
