@@ -20,6 +20,7 @@ Jointly Improving Parsing and Perception for Natural Language Commands through H
 Jesse Thomason, Aishwarya Padmakumar, Jivko Sinapov, Nick Walker, Yuqian Jiang, Harel Yedidsion, Justin Hart, Peter Stone, Raymond J. Mooney<br><br>
 Experiments in Proactive Symbol Grounding for Efficient Physically Situated Human-Robot Dialogue<br>
 Jacob Arkin, Thomas Howard |
+| Panel Discussion<br>16:45 - 17:15 | Participants |
 
 ## Call for Papers
 
