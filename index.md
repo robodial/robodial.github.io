@@ -1,11 +1,25 @@
 # Special Session on Physically Situated Dialogue
 	
-July 12, 2018
-15:00 - 17:15
+July 12, 2018<br>15:00 - 17:15
 
 ## Overview
 
 Recent technologies have brought conversational robots out of the lab and into the homes and workplaces of real users. Dialogue is now actively taking place with robots and other smart devices to understand, operate, navigate, and manipulate physical space. _Physically situated dialogue_ distinguishes itself from other forms of dialogue in that it (1) takes place in a physical space, (2) refers to the shared surroundings of dialogue partners, and (3) involves a physical agent that can make actions in the world. There is a growing need for showcasing bi-directional dialogue work that draws on language grounding, models of vision and language, as well as dialogue that allows physically situated agents to ask for clarification and provide updates on their internal states.
+
+## Schedule
+
+| Full paper presentations<br>15:00 - 16:15 | Predicting Perceived Age: Both Language Ability and Appearance are Important<br>
+Sarah Plane, Ariel Marvasti, Tyler Egan, Casey Kennington<br><br>
+Multimodal Hierarchical Reinforcement Learning Policy for Task-Oriented Visual Dialog<br>
+Jiaping Zhang, Tiancheng Zhao, Zhou Yu<br><br>
+Language-Guided Adaptive Perception for Efficient Grounded Communication with Robotic Manipulators in Cluttered Environments<br>
+Siddharth Patki and Thomas Howard |
+| LBR lightning talks<br>16:15 - 16:45 | Embodied Question Answering<br>
+Abhishek Das, Samyak Datta, Georgia Gkioxari, Stefan Lee, Devi Parikh, Dhruv Batra<br><br>
+Jointly Improving Parsing and Perception for Natural Language Commands through Human-Robot Dialog<br>
+Jesse Thomason, Aishwarya Padmakumar, Jivko Sinapov, Nick Walker, Yuqian Jiang, Harel Yedidsion, Justin Hart, Peter Stone, Raymond J. Mooney<br><br>
+Experiments in Proactive Symbol Grounding for Efficient Physically Situated Human-Robot Dialogue<br>
+Jacob Arkin, Thomas Howard |
 
 ## Call for Papers
 
