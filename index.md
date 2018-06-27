@@ -8,6 +8,10 @@ Recent technologies have brought conversational robots out of the lab and into t
 
 ## Schedule
 
+| 1 | 2 |
+| 3 | 4 |
+| 5 | 6 |
+
 | Full paper presentations<br>15:00 - 16:15 | Predicting Perceived Age: Both Language Ability and Appearance are Important<br>
 Sarah Plane, Ariel Marvasti, Tyler Egan, Casey Kennington<br><br>
 Multimodal Hierarchical Reinforcement Learning Policy for Task-Oriented Visual Dialog<br>
