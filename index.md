@@ -1,6 +1,7 @@
 # Special Session on Physically Situated Dialogue
 	
-Papers due **March 11** for SIGDIAL (_Final pdf due March 18_) or **June 10** for late-breaking and work-in-progress papers
+July 12, 2018
+15:00 - 17:15
 
 ## Overview
 
