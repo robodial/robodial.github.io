@@ -8,12 +8,12 @@ Recent technologies have brought conversational robots out of the lab and into t
 
 ## Schedule
 
-| 1 | 2 |
+| Full paper presentations<br>15:00 - 16:15 | Predicting Perceived Age: Both Language Ability and Appearance are Important<br>
+Sarah Plane, Ariel Marvasti, Tyler Egan, Casey Kennington |
 | 3 | 4 |
 | 5 | 6 |
 
-| Full paper presentations<br>15:00 - 16:15 | Predicting Perceived Age: Both Language Ability and Appearance are Important<br>
-Sarah Plane, Ariel Marvasti, Tyler Egan, Casey Kennington<br><br>
+| F | <br><br>
 Multimodal Hierarchical Reinforcement Learning Policy for Task-Oriented Visual Dialog<br>
 Jiaping Zhang, Tiancheng Zhao, Zhou Yu<br><br>
 Language-Guided Adaptive Perception for Efficient Grounded Communication with Robotic Manipulators in Cluttered Environments<br>
