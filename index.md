@@ -1,6 +1,4 @@
 # Special Session on Physically Situated Dialogue
-	
-July 12, 2018<br>**Poster Session**: 13:30 - 14:30<br>**Talks and Panel**: 15:00 - 17:15
 
 ## Overview
 
