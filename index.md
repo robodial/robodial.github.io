@@ -53,13 +53,13 @@ To submit a late-breaking or work-in-progress paper, please email a 2-4 page PDF
 To submit a position paper, please email a 4-6 page PDF (including references) formatted using the SIGdial 2020 format guidelines, to: robodial@googlegroups.com by May 15. You will receive a confirmation of your submission and notification before the Early Bird Registration deadline. 
 
 **List of Organizers**
-Jose David Lopes, Heriot Watt University
-Stephanie Lukin, Army Research Lab
-Matthew Marge, Army Research Lab
-Vikram Ramanarayanan, Educational Testing Service
-Matthias Scheutz, Tufts University
-Casey Kennington, Boise State University
-Cynthia Matuszek, University of Maryland, Baltimore County
+- Jose David Lopes, Heriot Watt University
+- Stephanie Lukin, Army Research Lab
+- Matthew Marge, Army Research Lab
+- Vikram Ramanarayanan, Educational Testing Service
+- Matthias Scheutz, Tufts University
+- Casey Kennington, Boise State University
+- Cynthia Matuszek, University of Maryland, Baltimore County
 
 
 **Website**
