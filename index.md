@@ -1,4 +1,4 @@
-# Special Session on Physically Situated Dialogue
+# Special Session on Situated Dialogue with Virtual Agents and Robots
 
 ## Overview
 
