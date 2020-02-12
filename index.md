@@ -4,7 +4,9 @@
 
 Recent technologies have brought conversational robots out of the lab and into the homes and workplaces of real users. Dialogue is now actively taking place between people and agents to operate, navigate, visualize, and interact in physical or virtual spaces. *Situated dialogue* distinguishes itself from other forms of dialogue in that it (1) takes place in an environment (real or simulated), (2) refers to the shared surroundings of interlocutors, and (3) involves an embodied agent (e.g., a robot or device). There is a growing need for bi-directional dialogue work to be showcased that supports the body of research on language grounding, vision, and language, as well as dialogue that will allow situated agents, like robots, to ask for clarification and provide updates on their internal states.
 
-[RoboDial 2018, part of SigDial, Melbourne, Australia](robodial2018.md)
+**Prior Special Sessions and Workshops***
+
+- [RoboDial 2018, part of SigDial, Melbourne, Australia](robodial2018.md)
 
 ## Schedule
 
@@ -62,6 +64,4 @@ To submit a position paper, please email a 4-6 page PDF (including references) f
 - Cynthia Matuszek, University of Maryland, Baltimore County
 
 
-**Website**
-For more information and updates please check the special session website at <https://robodial.github.io>
   
