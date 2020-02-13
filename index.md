@@ -63,6 +63,6 @@ To submit a position paper, please email a 4-6 page PDF (including references) f
 - Casey Kennington, Boise State University
 - Cynthia Matuszek, University of Maryland, Baltimore County
 
-**Contact**: robotdial@googlegroups.com
+**Contact**: robodial@googlegroups.com
 
   
