@@ -12,6 +12,10 @@ Recent technologies have brought conversational robots out of the lab and into t
 
 to be determined
 
+## Note on COVID-19
+
+SIGDIAL will be held virtually, July 1-3. The Robodial Special Session will likewise be held virtually.
+
 ## Call for Papers
 
 Recent technologies have brought conversational robots out of the lab and into the homes and workplaces of real users. Dialogue is now actively taking place between people and agents to operate, navigate, visualize, and interact in physical or virtual spaces. *Situated dialogue* distinguishes itself from other forms of dialogue in that it (1) takes place in an environment (real or simulated), (2) refers to the shared surroundings of interlocutors, and (3) involves an embodied agent (e.g., a robot or device). There is a growing need for bi-directional dialogue work to be showcased that supports the body of research on language grounding, vision, and language, as well as dialogue that will allow situated agents, like robots, to ask for clarification and provide updates on their internal states.
@@ -48,11 +52,11 @@ Researchers may choose to submit:
 **Long and short paper submission deadline: abstracts and titles: March 6; final submission March 11**
 To submit a long or short paper, please go to the SIGdial 2020 START page (https://www.softconf.com/l/sigdial2020/). When submitting, indicate “Special Session Paper (RoboDial 2.0)” under the “Submission Type” category. All long and short submissions must follow the SIGdial 2020 format. Following the SigDial timeline, you are required to complete the title, authors, and abstracts by the 6th, but you can make updates to the PDF submission until the 11th. 
 
-**Late-breaking and work-in-progress paper deadline: May 15** 
-To submit a late-breaking or work-in-progress paper, please email a 2-4 page PDF (including references) formatted using the SIGdial 2020 format guidelines, to: robodial@googlegroups.com by May 15. You will receive a confirmation of your submission and notification before the Early Bird Registration deadline. 
+**Late-breaking and work-in-progress paper deadline: June 5** 
+To submit a late-breaking or work-in-progress paper, please email a 2-4 page PDF (including references) formatted using the SIGdial 2020 format guidelines, to: robodial@googlegroups.com by June 5 You will receive a confirmation of your submission and notification before the Early Bird Registration deadline. 
 
-**Position paper deadline: May 15** 
-To submit a position paper, please email a 4-6 page PDF (including references) formatted using the SIGdial 2020 format guidelines, to: robodial@googlegroups.com by May 15. You will receive a confirmation of your submission and notification before the Early Bird Registration deadline. 
+**Position paper deadline: June 5** 
+To submit a position paper, please email a 4-6 page PDF (including references) formatted using the SIGdial 2020 format guidelines, to: robodial@googlegroups.com by June 5. You will receive a confirmation of your submission and notification before the Early Bird Registration deadline. 
 
 **List of Organizers**
 - Jose David Lopes, Heriot Watt University
