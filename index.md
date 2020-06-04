@@ -52,11 +52,11 @@ Researchers may choose to submit:
 **Long and short paper submission deadline: abstracts and titles: March 6; final submission March 11**
 To submit a long or short paper, please go to the SIGdial 2020 START page (https://www.softconf.com/l/sigdial2020/). When submitting, indicate “Special Session Paper (RoboDial 2.0)” under the “Submission Type” category. All long and short submissions must follow the SIGdial 2020 format. Following the SigDial timeline, you are required to complete the title, authors, and abstracts by the 6th, but you can make updates to the PDF submission until the 11th. 
 
-**Late-breaking and work-in-progress paper deadline: June 5** 
-To submit a late-breaking or work-in-progress paper, please email a 2-4 page PDF (including references) formatted using the SIGdial 2020 format guidelines, to: robodial@googlegroups.com by June 5 You will receive a confirmation of your submission and notification before the Early Bird Registration deadline. 
+**Late-breaking and work-in-progress paper deadline: June 9** 
+To submit a late-breaking or work-in-progress paper, please email a 2-4 page PDF (including references) formatted using the SIGdial 2020 format guidelines, to: robodial@googlegroups.com by June 9 You will receive a confirmation of your submission and notification before the Early Bird Registration deadline. 
 
-**Position paper deadline: June 5** 
-To submit a position paper, please email a 4-6 page PDF (including references) formatted using the SIGdial 2020 format guidelines, to: robodial@googlegroups.com by June 5. You will receive a confirmation of your submission and notification before the Early Bird Registration deadline. 
+**Position paper deadline: June 9** 
+To submit a position paper, please email a 4-6 page PDF (including references) formatted using the SIGdial 2020 format guidelines, to: robodial@googlegroups.com by June 9. You will receive a confirmation of your submission and notification before the Early Bird Registration deadline. 
 
 **List of Organizers**
 - Jose David Lopes, Heriot Watt University
