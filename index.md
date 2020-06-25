@@ -8,9 +8,22 @@ Recent technologies have brought conversational robots out of the lab and into t
 
 - [RoboDial 2018, part of SigDial, Melbourne, Australia](robodial2018.md)
 
-## Schedule
+## Schedule (subject to change; times are in MDT (-6))
 
-to be determined
+| 4:00 pm  | Introduction to Special Session                                                                                                      |              |
+| 4:05 pm  | It's About Time: Turn-Entry Timing For Situated Human-Robot Dialogue                                                                 | Felix Gervits, Ravenna Thielstrom, Antonio Roque and Matthias Scheutz                              |
+| 4:17 pm  | Learning Word Groundings from Humans Facilitated by Robot Emotional Displays                                                         | David McNeill and Casey Kennington                                                                 |
+| 4:29 pm  | Learning and Reasoning for Robot Dialog and Navigation Tasks                                                                         | Keting Lu, Shiqi Zhang, Peter Stone and Xiaoping Chen                                              |
+| 4:41 pm  | An Attentive Listening System with Android ERICA: Comparison of Autonomous and WOZ Interactions                                      | Koji Inoue, Divesh Lala, Kenta Yamamoto, Shizuka Nakamura, Katsuya Takanashi and Tatsuya Kawahara  |
+| 5:00 pm  | Live Q/A Sessions for Demo Papers (presentations will be simultaneously live streamed)                                               |                                                                                                    |
+| 5:00 pm  | A Spoken Dialogue System for Spatial Question Answering in a Physical Blocks World                                                   | Georgiy Platonov, Lenhart Schubert, Benjamin Kane and Aaron Gindi                                  |
+| 5:10 pm  | rrSDS: Towards a Robot-ready Spoken Dialogue System                                                                                  | Casey Kennington, Daniele Moro, Lucas Marchand, Jake Carns, and David McNeill                      |
+| 5:30 pm  | Live Q/A Session for Special Session Papers                                                                                          |                                                                                                    |
+| 6:15 pm  | A multimodal corpus of Human-Human and Human-Robot conversations including synchronized behavioral and neurophysiological recordings | Thierry Chaminade                                                                                  |
+| 6:20 pm  | Grounding Robot Dialogue in Environment Sensors to help Elderly in Activities of Daily Living                                        | Ifrah Idrees, Stefanie Tellex, Momotaz Begum                                                       |
+| 6:25 pm  | Dialog as a Vehicle for Lifelong Learning                                                                                            | Aishwarya Padmakumar, Raymond Mooney                                                               |
+| 6:30 pm  | Situated Multimodal Control of a Mobile Robot: Navigation through a Virtual Environment                                              | Katherine Krajovic, Nikhil Krishnaswamy, Nathaniel J. Dimick, R. Pito Salas, and James Pustejovsky |
+| 6:35 pm  | Towards meaningful, grounded conversations with intelligent agents                                                                   | Alexandros Papangelis    
 
 ## Note on COVID-19
 
