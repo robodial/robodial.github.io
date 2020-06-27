@@ -23,7 +23,7 @@ Recent technologies have brought conversational robots out of the lab and into t
 | 6:20 pm  | Grounding Robot Dialogue in Environment Sensors to help Elderly in Activities of Daily Living                                        | Ifrah Idrees, Stefanie Tellex, Momotaz Begum                                                       |
 | 6:25 pm  | Dialog as a Vehicle for Lifelong Learning                                                                                            | Aishwarya Padmakumar, Raymond Mooney                                                               |
 | 6:30 pm  | Situated Multimodal Control of a Mobile Robot: Navigation through a Virtual Environment                                              | Katherine Krajovic, Nikhil Krishnaswamy, Nathaniel J. Dimick, R. Pito Salas, and James Pustejovsky |
-| 6:35 pm  | Towards meaningful, grounded conversations with intelligent agents                                                                   | Alexandros Papangelis    
+| 6:35 pm  | Towards meaningful, grounded conversations with intelligent agents                                                                   | Alexandros Papangelis and Stefan Ultes
 
 ## Note on COVID-19
 
