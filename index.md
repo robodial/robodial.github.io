@@ -8,6 +8,11 @@ Recent technologies have brought conversational robots out of the lab and into t
 
 - [RoboDial 2018, part of SigDial, Melbourne, Australia](robodial2018.md)
 
+
+## Recorded YouTube Stream of RoboDial 2.0
+
+[![Presentation Video](http://img.youtube.com/vi/UK2KZHbuYIA/0.jpg)](https://youtu.be/UK2KZHbuYIA "Presentation Video")
+
 ## Schedule (subject to change; times are in MDT (-6))
 
 | 4:00 pm  | Introduction to Special Session                                                                                                      |              |
